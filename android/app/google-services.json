@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "501757886510",
+    "firebase_url": "https://minhas-despesas-a6b6d.firebaseio.com",
+    "project_id": "minhas-despesas-a6b6d",
+    "storage_bucket": "minhas-despesas-a6b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501757886510:android:6d5bac148933662f409fbf",
+        "android_client_info": {
+          "package_name": "br.com.code4line.my_expenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501757886510-j8vm96tjl7o0tethb8hj1cjphl5fdn7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.code4line.my_expenses",
+            "certificate_hash": "b21459ca16be9b653529fabda99a44acbb390f2b"
+          }
+        },
+        {
+          "client_id": "501757886510-i1cvjpqit8fnt7su1tiiplsel6dpvers.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVmy_WRBLagGUkvHh7thnNEct1_PiEEVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501757886510-i1cvjpqit8fnt7su1tiiplsel6dpvers.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
